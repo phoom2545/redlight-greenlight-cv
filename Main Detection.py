@@ -1,3 +1,6 @@
+# Phoomiphat Kittisuphat 29/4/2023
+#This code is made for a Computer Vision Project 
+
 import cv2
 import time
 
